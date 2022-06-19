@@ -1,0 +1,4 @@
+Django==4.0.5
+djangorestframework==3.13.1
+factory_boy==3.2.1
+python-decouple==3.6
